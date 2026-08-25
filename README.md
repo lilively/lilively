@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Lili 
 
-<!--
-**lilively/lilively** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software that makes clinical data trustworthy: pipelines, quality
+control, and ML models for magnetic resonance spectroscopy of brain tumors.
+PhD candidate at Universitat Autònoma de Barcelona (defense Sept 2026).
 
-Here are some ideas to get you started:
+**What I've built:**
+- [MRSprep](https://github.com/lilively/MRSprep) — modular pipeline for
+  organizing, validating, and QC-ing clinical MRS data (Python)
+- [MRSplotter](https://github.com/lilively/MRSplotter) — GUI app for
+  publication-ready MRS visualization (Python/PyQt6, Windows binary available)
+- [MRScoreg](https://github.com/lilively/MRScoreg) — MRS-voxel-to-MRI
+  co-registration tool (MATLAB, compiled release)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Published work:**
+- ML classifier for meningioma vs. solitary fibrous tumor from clinical MRS —
+  first author, *NMR in Biomedicine* (2025) · [doi:10.1002/nbm.70032](https://doi.org/10.1002/nbm.70032)
+- Neural recordings database — co-author, *Scientific Data* ·
+  [doi:10.1038/s41597-021-00970-3](https://doi.org/10.1038/s41597-021-00970-3)
+
+📍 Barcelona · [ORCID](https://orcid.org/0000-0002-4553-292X) · [LinkedIn](https://www.linkedin.com/in/lilifannitoth/)
