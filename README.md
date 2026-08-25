@@ -13,9 +13,8 @@ PhD candidate at Universitat Autònoma de Barcelona (defense Sept 2026).
   co-registration tool (MATLAB, compiled release)
 
 **Published work:**
-- ML classifier for meningioma vs. solitary fibrous tumor from clinical MRS —
-  first author, *NMR in Biomedicine* (2025) · [doi:10.1002/nbm.70032](https://doi.org/10.1002/nbm.70032)
-- Neural recordings database — co-author, *Scientific Data* ·
-  [doi:10.1038/s41597-021-00970-3](https://doi.org/10.1038/s41597-021-00970-3)
+- ML classifier for meningioma vs. solitary fibrous tumor from clinical MRS:
+  first author, · [doi:10.1002/nbm.70032](https://doi.org/10.1002/nbm.70032)
+- Neural recordings database:  co-author, ·  [doi:10.1038/s41597-021-00970-3](https://doi.org/10.1038/s41597-021-00970-3)
 
 📍 Barcelona · [ORCID](https://orcid.org/0000-0002-4553-292X) · [LinkedIn](https://www.linkedin.com/in/lilifannitoth/)
