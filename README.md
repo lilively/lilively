@@ -8,7 +8,7 @@ defense December 3, 2026).
 **What I've built** (all with DOIs and documentation; in use by my group
 and a neighbouring research group):
 - [MRSprep](https://github.com/lilively/MRSprep) — ETL and QC pipeline for
-  clinical MRS data: DICOM (pydicom), SPAR/SDAT, jMRUI; ~2000 hospital records (Python)
+  clinical MRS data: DICOM (pydicom), SPAR/SDAT, jMRUI; ~2000 cases (Python)
 - [MRSplotter](https://github.com/lilively/MRSplotter) — GUI app for
   publication-ready MRS visualization (Python/PyQt6, Windows binary)
 - [MRScoreg](https://github.com/lilively/MRScoreg) — DICOM→NIfTI conversion
